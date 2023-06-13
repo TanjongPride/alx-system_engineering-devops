@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -empty | rev | cut -g '/' -f i | rev
